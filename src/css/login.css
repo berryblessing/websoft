@@ -1,0 +1,22 @@
+body{
+    background: rgb(25,145,203);
+    background: linear-gradient(288deg, rgba(25,145,203,0.9948354341736695) 0%, rgba(123,174,199,0.9948354341736695) 0%, rgba(168,215,218,0.9780287114845938) 99%);
+   text-align: center;
+}
+
+.wraperbody{  
+    /* position: absolute; */
+    display: inline-block;
+    margin-top: 150px;
+    width: 400px ;
+    height: 600px ; 
+}
+ .or{
+     position: absolute;
+     margin-top: -30px;
+ }
+
+    .backbtn{
+        width: 50px;
+        height: 50px;
+    }
